@@ -1,6 +1,4 @@
 # this requires "requests" package to run (pip install requests)
-# yall dumbasses so if you don't know where to get pip here it is:
-# https://pip.pypa.io/en/stable/installing/
 
 from decimal import *
 import string
